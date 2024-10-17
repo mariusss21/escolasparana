@@ -17,7 +17,7 @@ This script is designed to scrape data about schools in Paraná, Brazil, from th
 
 ## Medium article
 
-[Medium article]()
+[Medium article](https://medium.com/@marius.lisboa/web-scraping-de-escolas-do-paraná-3d9e19f57cbc)
 
 ## Installation
 
